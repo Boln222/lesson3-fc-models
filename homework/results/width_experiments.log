@@ -1,0 +1,850 @@
+17:24:41 mnist / узкие [64, 32, 16] [64, 32, 16]
+17:24:41   epoch  1/20  train acc 0.6297  test acc 0.8115
+17:24:42   epoch  2/20  train acc 0.8668  test acc 0.8722
+17:24:42   epoch  3/20  train acc 0.9021  test acc 0.8866
+17:24:42   epoch  4/20  train acc 0.9129  test acc 0.9073
+17:24:43   epoch  5/20  train acc 0.9254  test acc 0.9136
+17:24:43   epoch  6/20  train acc 0.9330  test acc 0.9137
+17:24:43   epoch  7/20  train acc 0.9392  test acc 0.9184
+17:24:43   epoch  8/20  train acc 0.9449  test acc 0.9277
+17:24:43   epoch  9/20  train acc 0.9539  test acc 0.9269
+17:24:44   epoch 10/20  train acc 0.9562  test acc 0.9346
+17:24:44   epoch 11/20  train acc 0.9617  test acc 0.9338
+17:24:44   epoch 12/20  train acc 0.9611  test acc 0.9355
+17:24:44   epoch 13/20  train acc 0.9674  test acc 0.9340
+17:24:45   epoch 14/20  train acc 0.9697  test acc 0.9392
+17:24:45   epoch 15/20  train acc 0.9727  test acc 0.9386
+17:24:45   epoch 16/20  train acc 0.9770  test acc 0.9380
+17:24:45   epoch 17/20  train acc 0.9780  test acc 0.9399
+17:24:45   epoch 18/20  train acc 0.9825  test acc 0.9412
+17:24:46   epoch 19/20  train acc 0.9856  test acc 0.9407
+17:24:46   epoch 20/20  train acc 0.9823  test acc 0.9403
+17:24:46 mnist / средние [256, 128, 64] [256, 128, 64]
+17:24:47   epoch  1/20  train acc 0.7816  test acc 0.8997
+17:24:47   epoch  2/20  train acc 0.9165  test acc 0.9241
+17:24:47   epoch  3/20  train acc 0.9400  test acc 0.9322
+17:24:48   epoch  4/20  train acc 0.9579  test acc 0.9361
+17:24:48   epoch  5/20  train acc 0.9681  test acc 0.9363
+17:24:48   epoch  6/20  train acc 0.9761  test acc 0.9415
+17:24:49   epoch  7/20  train acc 0.9806  test acc 0.9345
+17:24:49   epoch  8/20  train acc 0.9858  test acc 0.9480
+17:24:49   epoch  9/20  train acc 0.9901  test acc 0.9499
+17:24:50   epoch 10/20  train acc 0.9944  test acc 0.9496
+17:24:50   epoch 11/20  train acc 0.9878  test acc 0.9526
+17:24:51   epoch 12/20  train acc 0.9950  test acc 0.9526
+17:24:51   epoch 13/20  train acc 0.9933  test acc 0.9496
+17:24:51   epoch 14/20  train acc 0.9985  test acc 0.9547
+17:24:52   epoch 15/20  train acc 0.9989  test acc 0.9560
+17:24:52   epoch 16/20  train acc 0.9996  test acc 0.9552
+17:24:52   epoch 17/20  train acc 0.9999  test acc 0.9563
+17:24:53   epoch 18/20  train acc 1.0000  test acc 0.9565
+17:24:53   epoch 19/20  train acc 1.0000  test acc 0.9565
+17:24:53   epoch 20/20  train acc 1.0000  test acc 0.9573
+17:24:53 mnist / широкие [1024, 512, 256] [1024, 512, 256]
+17:24:54   epoch  1/20  train acc 0.8429  test acc 0.9097
+17:24:55   epoch  2/20  train acc 0.9392  test acc 0.9225
+17:24:56   epoch  3/20  train acc 0.9584  test acc 0.9339
+17:24:57   epoch  4/20  train acc 0.9744  test acc 0.9539
+17:24:58   epoch  5/20  train acc 0.9836  test acc 0.9498
+17:24:59   epoch  6/20  train acc 0.9866  test acc 0.9554
+17:25:00   epoch  7/20  train acc 0.9894  test acc 0.9591
+17:25:01   epoch  8/20  train acc 0.9963  test acc 0.9574
+17:25:02   epoch  9/20  train acc 0.9860  test acc 0.9437
+17:25:03   epoch 10/20  train acc 0.9901  test acc 0.9519
+17:25:05   epoch 11/20  train acc 0.9899  test acc 0.9531
+17:25:06   epoch 12/20  train acc 0.9943  test acc 0.9574
+17:25:07   epoch 13/20  train acc 0.9956  test acc 0.9580
+17:25:08   epoch 14/20  train acc 0.9938  test acc 0.9565
+17:25:09   epoch 15/20  train acc 0.9969  test acc 0.9532
+17:25:10   epoch 16/20  train acc 0.9970  test acc 0.9470
+17:25:11   epoch 17/20  train acc 0.9914  test acc 0.9560
+17:25:12   epoch 18/20  train acc 0.9944  test acc 0.9543
+17:25:13   epoch 19/20  train acc 0.9945  test acc 0.9577
+17:25:14   epoch 20/20  train acc 0.9908  test acc 0.9597
+17:25:14 mnist / очень широкие [2048, 1024, 512] [2048, 1024, 512]
+17:25:17   epoch  1/20  train acc 0.8525  test acc 0.9124
+17:25:19   epoch  2/20  train acc 0.9478  test acc 0.9453
+17:25:22   epoch  3/20  train acc 0.9723  test acc 0.9461
+17:25:25   epoch  4/20  train acc 0.9778  test acc 0.9465
+17:25:27   epoch  5/20  train acc 0.9800  test acc 0.9467
+17:25:30   epoch  6/20  train acc 0.9853  test acc 0.9564
+17:25:33   epoch  7/20  train acc 0.9869  test acc 0.9549
+17:25:36   epoch  8/20  train acc 0.9882  test acc 0.9583
+17:25:39   epoch  9/20  train acc 0.9920  test acc 0.9578
+17:25:42   epoch 10/20  train acc 0.9879  test acc 0.9491
+17:25:46   epoch 11/20  train acc 0.9878  test acc 0.9610
+17:25:48   epoch 12/20  train acc 0.9914  test acc 0.9563
+17:25:52   epoch 13/20  train acc 0.9959  test acc 0.9626
+17:25:55   epoch 14/20  train acc 0.9911  test acc 0.9629
+17:25:58   epoch 15/20  train acc 0.9978  test acc 0.9652
+17:26:02   epoch 16/20  train acc 0.9974  test acc 0.9643
+17:26:05   epoch 17/20  train acc 0.9993  test acc 0.9628
+17:26:08   epoch 18/20  train acc 0.9969  test acc 0.9609
+17:26:12   epoch 19/20  train acc 0.9939  test acc 0.9460
+17:26:15   epoch 20/20  train acc 0.9883  test acc 0.9571
+17:26:15 mnist_widths
+                          model  params  train_acc  test_acc  best_test_acc    gap  overfit_epoch  stability  time_s
+             узкие [64, 32, 16]   53018     0.9823    0.9403         0.9412 0.0420             14     0.0011  5.2120
+         средние [256, 128, 64]  242762     1.0000    0.9573         0.9573 0.0427              9     0.0007  6.9783
+       широкие [1024, 512, 256] 1462538     0.9908    0.9597         0.9597 0.0311              7     0.0044 20.7185
+очень широкие [2048, 1024, 512] 4235786     0.9883    0.9571         0.9652 0.0312              8     0.0066 60.8199
+
+17:26:16 mnist / расширение [16, 32, 64] [16, 32, 64]
+17:26:16   epoch  1/20  train acc 0.5582  test acc 0.8233
+17:26:16   epoch  2/20  train acc 0.8660  test acc 0.8911
+17:26:16   epoch  3/20  train acc 0.9038  test acc 0.9073
+17:26:16   epoch  4/20  train acc 0.9185  test acc 0.9046
+17:26:16   epoch  5/20  train acc 0.9282  test acc 0.9085
+17:26:17   epoch  6/20  train acc 0.9320  test acc 0.9130
+17:26:17   epoch  7/20  train acc 0.9392  test acc 0.9212
+17:26:17   epoch  8/20  train acc 0.9436  test acc 0.9208
+17:26:17   epoch  9/20  train acc 0.9494  test acc 0.9266
+17:26:17   epoch 10/20  train acc 0.9505  test acc 0.9245
+17:26:18   epoch 11/20  train acc 0.9520  test acc 0.9262
+17:26:18   epoch 12/20  train acc 0.9544  test acc 0.9223
+17:26:18   epoch 13/20  train acc 0.9589  test acc 0.9279
+17:26:18   epoch 14/20  train acc 0.9641  test acc 0.9309
+17:26:19   epoch 15/20  train acc 0.9649  test acc 0.9321
+17:26:19   epoch 16/20  train acc 0.9671  test acc 0.9296
+17:26:19   epoch 17/20  train acc 0.9672  test acc 0.9275
+17:26:19   epoch 18/20  train acc 0.9693  test acc 0.9319
+17:26:19   epoch 19/20  train acc 0.9725  test acc 0.9283
+17:26:20   epoch 20/20  train acc 0.9725  test acc 0.9285
+17:26:20 mnist / расширение [32, 64, 128] [32, 64, 128]
+17:26:20   epoch  1/20  train acc 0.7156  test acc 0.8736
+17:26:20   epoch  2/20  train acc 0.9044  test acc 0.9112
+17:26:20   epoch  3/20  train acc 0.9222  test acc 0.9026
+17:26:21   epoch  4/20  train acc 0.9301  test acc 0.9243
+17:26:21   epoch  5/20  train acc 0.9407  test acc 0.9254
+17:26:21   epoch  6/20  train acc 0.9475  test acc 0.9285
+17:26:21   epoch  7/20  train acc 0.9568  test acc 0.9270
+17:26:22   epoch  8/20  train acc 0.9616  test acc 0.9381
+17:26:22   epoch  9/20  train acc 0.9660  test acc 0.9379
+17:26:22   epoch 10/20  train acc 0.9679  test acc 0.9348
+17:26:22   epoch 11/20  train acc 0.9706  test acc 0.9381
+17:26:23   epoch 12/20  train acc 0.9761  test acc 0.9379
+17:26:23   epoch 13/20  train acc 0.9820  test acc 0.9374
+17:26:23   epoch 14/20  train acc 0.9822  test acc 0.9387
+17:26:23   epoch 15/20  train acc 0.9813  test acc 0.9408
+17:26:23   epoch 16/20  train acc 0.9881  test acc 0.9393
+17:26:24   epoch 17/20  train acc 0.9911  test acc 0.9376
+17:26:24   epoch 18/20  train acc 0.9915  test acc 0.9390
+17:26:24   epoch 19/20  train acc 0.9855  test acc 0.9365
+17:26:24   epoch 20/20  train acc 0.9930  test acc 0.9434
+17:26:24 mnist / расширение [64, 128, 256] [64, 128, 256]
+17:26:25   epoch  1/20  train acc 0.7753  test acc 0.8927
+17:26:25   epoch  2/20  train acc 0.9125  test acc 0.9080
+17:26:25   epoch  3/20  train acc 0.9360  test acc 0.9220
+17:26:25   epoch  4/20  train acc 0.9474  test acc 0.9203
+17:26:26   epoch  5/20  train acc 0.9562  test acc 0.9379
+17:26:26   epoch  6/20  train acc 0.9645  test acc 0.9375
+17:26:26   epoch  7/20  train acc 0.9684  test acc 0.9327
+17:26:26   epoch  8/20  train acc 0.9748  test acc 0.9392
+17:26:27   epoch  9/20  train acc 0.9771  test acc 0.9435
+17:26:27   epoch 10/20  train acc 0.9857  test acc 0.9408
+17:26:27   epoch 11/20  train acc 0.9857  test acc 0.9462
+17:26:28   epoch 12/20  train acc 0.9896  test acc 0.9449
+17:26:28   epoch 13/20  train acc 0.9926  test acc 0.9418
+17:26:28   epoch 14/20  train acc 0.9934  test acc 0.9442
+17:26:29   epoch 15/20  train acc 0.9957  test acc 0.9484
+17:26:29   epoch 16/20  train acc 0.9976  test acc 0.9464
+17:26:29   epoch 17/20  train acc 0.9930  test acc 0.9466
+17:26:30   epoch 18/20  train acc 0.9946  test acc 0.9441
+17:26:30   epoch 19/20  train acc 0.9973  test acc 0.9478
+17:26:30   epoch 20/20  train acc 0.9971  test acc 0.9508
+17:26:30 mnist / расширение [128, 256, 512] [128, 256, 512]
+17:26:31   epoch  1/20  train acc 0.8070  test acc 0.9065
+17:26:31   epoch  2/20  train acc 0.9254  test acc 0.9289
+17:26:32   epoch  3/20  train acc 0.9490  test acc 0.9248
+17:26:32   epoch  4/20  train acc 0.9562  test acc 0.9287
+17:26:32   epoch  5/20  train acc 0.9664  test acc 0.9398
+17:26:33   epoch  6/20  train acc 0.9809  test acc 0.9449
+17:26:33   epoch  7/20  train acc 0.9835  test acc 0.9441
+17:26:34   epoch  8/20  train acc 0.9850  test acc 0.9502
+17:26:34   epoch  9/20  train acc 0.9916  test acc 0.9467
+17:26:34   epoch 10/20  train acc 0.9905  test acc 0.9524
+17:26:35   epoch 11/20  train acc 0.9950  test acc 0.9552
+17:26:35   epoch 12/20  train acc 0.9960  test acc 0.9541
+17:26:36   epoch 13/20  train acc 0.9955  test acc 0.9536
+17:26:36   epoch 14/20  train acc 0.9915  test acc 0.9448
+17:26:36   epoch 15/20  train acc 0.9904  test acc 0.9401
+17:26:37   epoch 16/20  train acc 0.9915  test acc 0.9441
+17:26:37   epoch 17/20  train acc 0.9942  test acc 0.9531
+17:26:38   epoch 18/20  train acc 0.9969  test acc 0.9572
+17:26:38   epoch 19/20  train acc 0.9969  test acc 0.9521
+17:26:38   epoch 20/20  train acc 0.9938  test acc 0.9506
+17:26:38 mnist / расширение [256, 512, 1024] [256, 512, 1024]
+17:26:39   epoch  1/20  train acc 0.8305  test acc 0.9210
+17:26:40   epoch  2/20  train acc 0.9460  test acc 0.9372
+17:26:41   epoch  3/20  train acc 0.9588  test acc 0.9440
+17:26:41   epoch  4/20  train acc 0.9683  test acc 0.9486
+17:26:42   epoch  5/20  train acc 0.9803  test acc 0.9425
+17:26:43   epoch  6/20  train acc 0.9833  test acc 0.9257
+17:26:43   epoch  7/20  train acc 0.9831  test acc 0.9534
+17:26:44   epoch  8/20  train acc 0.9917  test acc 0.9544
+17:26:45   epoch  9/20  train acc 0.9936  test acc 0.9600
+17:26:46   epoch 10/20  train acc 0.9976  test acc 0.9582
+17:26:46   epoch 11/20  train acc 0.9917  test acc 0.9304
+17:26:47   epoch 12/20  train acc 0.9894  test acc 0.9462
+17:26:48   epoch 13/20  train acc 0.9923  test acc 0.9559
+17:26:49   epoch 14/20  train acc 0.9934  test acc 0.9455
+17:26:49   epoch 15/20  train acc 0.9920  test acc 0.9526
+17:26:50   epoch 16/20  train acc 0.9910  test acc 0.9443
+17:26:51   epoch 17/20  train acc 0.9914  test acc 0.9582
+17:26:52   epoch 18/20  train acc 0.9979  test acc 0.9568
+17:26:52   epoch 19/20  train acc 0.9949  test acc 0.9563
+17:26:53   epoch 20/20  train acc 0.9964  test acc 0.9602
+17:26:53 mnist / сужение [64, 32, 16] [64, 32, 16]
+17:26:53   epoch  1/20  train acc 0.6297  test acc 0.8115
+17:26:54   epoch  2/20  train acc 0.8668  test acc 0.8722
+17:26:54   epoch  3/20  train acc 0.9021  test acc 0.8866
+17:26:54   epoch  4/20  train acc 0.9129  test acc 0.9073
+17:26:54   epoch  5/20  train acc 0.9254  test acc 0.9136
+17:26:54   epoch  6/20  train acc 0.9330  test acc 0.9137
+17:26:55   epoch  7/20  train acc 0.9392  test acc 0.9184
+17:26:55   epoch  8/20  train acc 0.9449  test acc 0.9277
+17:26:55   epoch  9/20  train acc 0.9539  test acc 0.9269
+17:26:55   epoch 10/20  train acc 0.9562  test acc 0.9346
+17:26:55   epoch 11/20  train acc 0.9617  test acc 0.9338
+17:26:56   epoch 12/20  train acc 0.9611  test acc 0.9355
+17:26:56   epoch 13/20  train acc 0.9674  test acc 0.9340
+17:26:56   epoch 14/20  train acc 0.9697  test acc 0.9392
+17:26:56   epoch 15/20  train acc 0.9727  test acc 0.9386
+17:26:57   epoch 16/20  train acc 0.9770  test acc 0.9380
+17:26:57   epoch 17/20  train acc 0.9780  test acc 0.9399
+17:26:57   epoch 18/20  train acc 0.9825  test acc 0.9412
+17:26:57   epoch 19/20  train acc 0.9856  test acc 0.9407
+17:26:58   epoch 20/20  train acc 0.9823  test acc 0.9403
+17:26:58 mnist / сужение [128, 64, 32] [128, 64, 32]
+17:26:58   epoch  1/20  train acc 0.7442  test acc 0.8825
+17:26:58   epoch  2/20  train acc 0.9066  test acc 0.8903
+17:26:58   epoch  3/20  train acc 0.9286  test acc 0.9191
+17:26:59   epoch  4/20  train acc 0.9419  test acc 0.9196
+17:26:59   epoch  5/20  train acc 0.9482  test acc 0.9347
+17:26:59   epoch  6/20  train acc 0.9591  test acc 0.9380
+17:26:59   epoch  7/20  train acc 0.9675  test acc 0.9327
+17:27:00   epoch  8/20  train acc 0.9713  test acc 0.9430
+17:27:00   epoch  9/20  train acc 0.9754  test acc 0.9402
+17:27:00   epoch 10/20  train acc 0.9787  test acc 0.9401
+17:27:00   epoch 11/20  train acc 0.9832  test acc 0.9367
+17:27:01   epoch 12/20  train acc 0.9848  test acc 0.9455
+17:27:01   epoch 13/20  train acc 0.9909  test acc 0.9471
+17:27:01   epoch 14/20  train acc 0.9934  test acc 0.9456
+17:27:02   epoch 15/20  train acc 0.9928  test acc 0.9472
+17:27:02   epoch 16/20  train acc 0.9959  test acc 0.9489
+17:27:02   epoch 17/20  train acc 0.9977  test acc 0.9475
+17:27:02   epoch 18/20  train acc 0.9953  test acc 0.9500
+17:27:03   epoch 19/20  train acc 0.9983  test acc 0.9496
+17:27:03   epoch 20/20  train acc 0.9995  test acc 0.9496
+17:27:03 mnist / сужение [256, 128, 64] [256, 128, 64]
+17:27:03   epoch  1/20  train acc 0.7816  test acc 0.8997
+17:27:03   epoch  2/20  train acc 0.9165  test acc 0.9241
+17:27:04   epoch  3/20  train acc 0.9400  test acc 0.9322
+17:27:04   epoch  4/20  train acc 0.9579  test acc 0.9361
+17:27:04   epoch  5/20  train acc 0.9681  test acc 0.9363
+17:27:05   epoch  6/20  train acc 0.9761  test acc 0.9415
+17:27:05   epoch  7/20  train acc 0.9806  test acc 0.9345
+17:27:05   epoch  8/20  train acc 0.9858  test acc 0.9480
+17:27:06   epoch  9/20  train acc 0.9901  test acc 0.9499
+17:27:06   epoch 10/20  train acc 0.9944  test acc 0.9496
+17:27:06   epoch 11/20  train acc 0.9878  test acc 0.9526
+17:27:07   epoch 12/20  train acc 0.9950  test acc 0.9526
+17:27:07   epoch 13/20  train acc 0.9933  test acc 0.9496
+17:27:07   epoch 14/20  train acc 0.9985  test acc 0.9547
+17:27:08   epoch 15/20  train acc 0.9989  test acc 0.9560
+17:27:08   epoch 16/20  train acc 0.9996  test acc 0.9552
+17:27:08   epoch 17/20  train acc 0.9999  test acc 0.9563
+17:27:09   epoch 18/20  train acc 1.0000  test acc 0.9565
+17:27:09   epoch 19/20  train acc 1.0000  test acc 0.9565
+17:27:09   epoch 20/20  train acc 1.0000  test acc 0.9573
+17:27:09 mnist / сужение [512, 256, 128] [512, 256, 128]
+17:27:10   epoch  1/20  train acc 0.8227  test acc 0.9025
+17:27:10   epoch  2/20  train acc 0.9320  test acc 0.9310
+17:27:11   epoch  3/20  train acc 0.9530  test acc 0.9347
+17:27:12   epoch  4/20  train acc 0.9678  test acc 0.9391
+17:27:12   epoch  5/20  train acc 0.9762  test acc 0.9516
+17:27:13   epoch  6/20  train acc 0.9847  test acc 0.9495
+17:27:13   epoch  7/20  train acc 0.9872  test acc 0.9533
+17:27:14   epoch  8/20  train acc 0.9895  test acc 0.9523
+17:27:15   epoch  9/20  train acc 0.9881  test acc 0.9460
+17:27:15   epoch 10/20  train acc 0.9922  test acc 0.9586
+17:27:16   epoch 11/20  train acc 0.9947  test acc 0.9557
+17:27:16   epoch 12/20  train acc 0.9966  test acc 0.9580
+17:27:17   epoch 13/20  train acc 0.9992  test acc 0.9619
+17:27:17   epoch 14/20  train acc 0.9999  test acc 0.9629
+17:27:18   epoch 15/20  train acc 1.0000  test acc 0.9618
+17:27:18   epoch 16/20  train acc 1.0000  test acc 0.9625
+17:27:19   epoch 17/20  train acc 1.0000  test acc 0.9624
+17:27:19   epoch 18/20  train acc 1.0000  test acc 0.9628
+17:27:20   epoch 19/20  train acc 1.0000  test acc 0.9623
+17:27:21   epoch 20/20  train acc 1.0000  test acc 0.9624
+17:27:21 mnist / сужение [1024, 512, 256] [1024, 512, 256]
+17:27:21   epoch  1/20  train acc 0.8429  test acc 0.9097
+17:27:23   epoch  2/20  train acc 0.9392  test acc 0.9225
+17:27:23   epoch  3/20  train acc 0.9584  test acc 0.9339
+17:27:24   epoch  4/20  train acc 0.9744  test acc 0.9539
+17:27:25   epoch  5/20  train acc 0.9836  test acc 0.9498
+17:27:26   epoch  6/20  train acc 0.9866  test acc 0.9554
+17:27:27   epoch  7/20  train acc 0.9894  test acc 0.9591
+17:27:28   epoch  8/20  train acc 0.9963  test acc 0.9574
+17:27:29   epoch  9/20  train acc 0.9860  test acc 0.9437
+17:27:30   epoch 10/20  train acc 0.9901  test acc 0.9519
+17:27:31   epoch 11/20  train acc 0.9899  test acc 0.9531
+17:27:33   epoch 12/20  train acc 0.9943  test acc 0.9574
+17:27:34   epoch 13/20  train acc 0.9956  test acc 0.9580
+17:27:35   epoch 14/20  train acc 0.9938  test acc 0.9565
+17:27:36   epoch 15/20  train acc 0.9969  test acc 0.9532
+17:27:37   epoch 16/20  train acc 0.9970  test acc 0.9470
+17:27:38   epoch 17/20  train acc 0.9914  test acc 0.9560
+17:27:39   epoch 18/20  train acc 0.9944  test acc 0.9543
+17:27:41   epoch 19/20  train acc 0.9945  test acc 0.9577
+17:27:42   epoch 20/20  train acc 0.9908  test acc 0.9597
+17:27:42 mnist / постоянная [64, 64, 64] [64, 64, 64]
+17:27:42   epoch  1/20  train acc 0.6944  test acc 0.8792
+17:27:42   epoch  2/20  train acc 0.8959  test acc 0.9117
+17:27:42   epoch  3/20  train acc 0.9262  test acc 0.9119
+17:27:43   epoch  4/20  train acc 0.9387  test acc 0.9212
+17:27:43   epoch  5/20  train acc 0.9453  test acc 0.9274
+17:27:43   epoch  6/20  train acc 0.9523  test acc 0.9304
+17:27:43   epoch  7/20  train acc 0.9608  test acc 0.9324
+17:27:44   epoch  8/20  train acc 0.9645  test acc 0.9379
+17:27:44   epoch  9/20  train acc 0.9683  test acc 0.9368
+17:27:44   epoch 10/20  train acc 0.9722  test acc 0.9426
+17:27:44   epoch 11/20  train acc 0.9778  test acc 0.9399
+17:27:45   epoch 12/20  train acc 0.9795  test acc 0.9348
+17:27:45   epoch 13/20  train acc 0.9789  test acc 0.9438
+17:27:46   epoch 14/20  train acc 0.9847  test acc 0.9383
+17:27:46   epoch 15/20  train acc 0.9848  test acc 0.9459
+17:27:46   epoch 16/20  train acc 0.9915  test acc 0.9450
+17:27:47   epoch 17/20  train acc 0.9926  test acc 0.9434
+17:27:47   epoch 18/20  train acc 0.9926  test acc 0.9465
+17:27:47   epoch 19/20  train acc 0.9927  test acc 0.9455
+17:27:47   epoch 20/20  train acc 0.9960  test acc 0.9464
+17:27:47 mnist / постоянная [128, 128, 128] [128, 128, 128]
+17:27:47   epoch  1/20  train acc 0.7834  test acc 0.8832
+17:27:48   epoch  2/20  train acc 0.9147  test acc 0.9151
+17:27:48   epoch  3/20  train acc 0.9366  test acc 0.9284
+17:27:48   epoch  4/20  train acc 0.9504  test acc 0.9287
+17:27:49   epoch  5/20  train acc 0.9609  test acc 0.9382
+17:27:49   epoch  6/20  train acc 0.9706  test acc 0.9422
+17:27:49   epoch  7/20  train acc 0.9709  test acc 0.9421
+17:27:49   epoch  8/20  train acc 0.9837  test acc 0.9439
+17:27:50   epoch  9/20  train acc 0.9860  test acc 0.9436
+17:27:50   epoch 10/20  train acc 0.9907  test acc 0.9528
+17:27:50   epoch 11/20  train acc 0.9907  test acc 0.9514
+17:27:51   epoch 12/20  train acc 0.9952  test acc 0.9499
+17:27:51   epoch 13/20  train acc 0.9964  test acc 0.9515
+17:27:51   epoch 14/20  train acc 0.9967  test acc 0.9506
+17:27:51   epoch 15/20  train acc 0.9992  test acc 0.9553
+17:27:52   epoch 16/20  train acc 0.9992  test acc 0.9555
+17:27:52   epoch 17/20  train acc 0.9993  test acc 0.9537
+17:27:52   epoch 18/20  train acc 0.9993  test acc 0.9554
+17:27:53   epoch 19/20  train acc 0.9998  test acc 0.9568
+17:27:53   epoch 20/20  train acc 0.9998  test acc 0.9569
+17:27:53 mnist / постоянная [256, 256, 256] [256, 256, 256]
+17:27:53   epoch  1/20  train acc 0.8091  test acc 0.9048
+17:27:54   epoch  2/20  train acc 0.9316  test acc 0.9232
+17:27:54   epoch  3/20  train acc 0.9503  test acc 0.9316
+17:27:54   epoch  4/20  train acc 0.9660  test acc 0.9379
+17:27:55   epoch  5/20  train acc 0.9712  test acc 0.9502
+17:27:55   epoch  6/20  train acc 0.9814  test acc 0.9452
+17:27:56   epoch  7/20  train acc 0.9875  test acc 0.9491
+17:27:56   epoch  8/20  train acc 0.9918  test acc 0.9558
+17:27:56   epoch  9/20  train acc 0.9946  test acc 0.9456
+17:27:57   epoch 10/20  train acc 0.9939  test acc 0.9538
+17:27:57   epoch 11/20  train acc 0.9950  test acc 0.9526
+17:27:58   epoch 12/20  train acc 0.9928  test acc 0.9507
+17:27:58   epoch 13/20  train acc 0.9931  test acc 0.9550
+17:27:58   epoch 14/20  train acc 0.9960  test acc 0.9517
+17:27:59   epoch 15/20  train acc 0.9979  test acc 0.9549
+17:27:59   epoch 16/20  train acc 0.9979  test acc 0.9591
+17:28:00   epoch 17/20  train acc 0.9914  test acc 0.9421
+17:28:00   epoch 18/20  train acc 0.9857  test acc 0.9508
+17:28:00   epoch 19/20  train acc 0.9903  test acc 0.9591
+17:28:01   epoch 20/20  train acc 0.9959  test acc 0.9535
+17:28:01 mnist / постоянная [512, 512, 512] [512, 512, 512]
+17:28:02   epoch  1/20  train acc 0.8360  test acc 0.9196
+17:28:02   epoch  2/20  train acc 0.9398  test acc 0.9339
+17:28:03   epoch  3/20  train acc 0.9620  test acc 0.9340
+17:28:04   epoch  4/20  train acc 0.9689  test acc 0.9404
+17:28:05   epoch  5/20  train acc 0.9786  test acc 0.9450
+17:28:05   epoch  6/20  train acc 0.9873  test acc 0.9500
+17:28:06   epoch  7/20  train acc 0.9839  test acc 0.9549
+17:28:07   epoch  8/20  train acc 0.9875  test acc 0.9525
+17:28:07   epoch  9/20  train acc 0.9904  test acc 0.9565
+17:28:08   epoch 10/20  train acc 0.9940  test acc 0.9568
+17:28:09   epoch 11/20  train acc 0.9914  test acc 0.9507
+17:28:10   epoch 12/20  train acc 0.9898  test acc 0.9602
+17:28:10   epoch 13/20  train acc 0.9947  test acc 0.9556
+17:28:11   epoch 14/20  train acc 0.9952  test acc 0.9604
+17:28:12   epoch 15/20  train acc 0.9971  test acc 0.9529
+17:28:13   epoch 16/20  train acc 0.9941  test acc 0.9539
+17:28:14   epoch 17/20  train acc 0.9980  test acc 0.9577
+17:28:15   epoch 18/20  train acc 0.9952  test acc 0.9570
+17:28:15   epoch 19/20  train acc 0.9933  test acc 0.9533
+17:28:16   epoch 20/20  train acc 0.9949  test acc 0.9579
+17:28:16 mnist / постоянная [1024, 1024, 1024] [1024, 1024, 1024]
+17:28:18   epoch  1/20  train acc 0.8536  test acc 0.9208
+17:28:20   epoch  2/20  train acc 0.9517  test acc 0.9257
+17:28:22   epoch  3/20  train acc 0.9671  test acc 0.9529
+17:28:23   epoch  4/20  train acc 0.9782  test acc 0.9473
+17:28:25   epoch  5/20  train acc 0.9823  test acc 0.9446
+17:28:27   epoch  6/20  train acc 0.9812  test acc 0.9470
+17:28:29   epoch  7/20  train acc 0.9851  test acc 0.9536
+17:28:30   epoch  8/20  train acc 0.9857  test acc 0.9528
+17:28:32   epoch  9/20  train acc 0.9904  test acc 0.9531
+17:28:35   epoch 10/20  train acc 0.9916  test acc 0.9523
+17:28:37   epoch 11/20  train acc 0.9924  test acc 0.9418
+17:28:39   epoch 12/20  train acc 0.9899  test acc 0.9595
+17:28:41   epoch 13/20  train acc 0.9899  test acc 0.9533
+17:28:43   epoch 14/20  train acc 0.9917  test acc 0.9565
+17:28:45   epoch 15/20  train acc 0.9911  test acc 0.9621
+17:28:48   epoch 16/20  train acc 0.9963  test acc 0.9533
+17:28:50   epoch 17/20  train acc 0.9929  test acc 0.9569
+17:28:53   epoch 18/20  train acc 0.9944  test acc 0.9535
+17:28:55   epoch 19/20  train acc 0.9979  test acc 0.9601
+17:28:57   epoch 20/20  train acc 0.9999  test acc 0.9633
+17:28:57 mnist_grid_search
+                        model  params  train_acc  test_acc  best_test_acc    gap  overfit_epoch  stability  time_s     scheme  base_width
+      расширение [16, 32, 64]   15866     0.9725    0.9285         0.9321 0.0440             14     0.0015  4.1069 расширение          64
+     расширение [32, 64, 128]   36842     0.9930    0.9434         0.9434 0.0496              8     0.0023  4.6799 расширение         128
+    расширение [64, 128, 256]   94154     0.9971    0.9508         0.9508 0.0463              9     0.0022  6.1821 расширение         256
+   расширение [128, 256, 512]  270218     0.9938    0.9506         0.9572 0.0432              6     0.0043  7.7395 расширение         512
+  расширение [256, 512, 1024]  868106     0.9964    0.9602         0.9602 0.0362              4     0.0056 14.8827 расширение        1024
+         сужение [64, 32, 16]   53018     0.9823    0.9403         0.9412 0.0420             14     0.0011  4.4013    сужение          64
+        сужение [128, 64, 32]  111146     0.9995    0.9496         0.9500 0.0499             13     0.0009  5.2572    сужение         128
+       сужение [256, 128, 64]  242762     1.0000    0.9573         0.9573 0.0427              9     0.0007  6.6101    сужение         256
+      сужение [512, 256, 128]  567434     1.0000    0.9624         0.9629 0.0376              5     0.0002 11.1386    сужение         512
+     сужение [1024, 512, 256] 1462538     0.9908    0.9597         0.9597 0.0311              7     0.0044 21.2087    сужение        1024
+      постоянная [64, 64, 64]   59210     0.9960    0.9464         0.9465 0.0496             10     0.0011  5.4118 постоянная          64
+   постоянная [128, 128, 128]  134794     0.9998    0.9569         0.9569 0.0429             11     0.0012  5.6865 постоянная         128
+   постоянная [256, 256, 256]  335114     0.9959    0.9535         0.9591 0.0424              5     0.0063  7.8728 постоянная         256
+   постоянная [512, 512, 512]  932362     0.9949    0.9579         0.9604 0.0370             12     0.0020 15.3485 постоянная         512
+постоянная [1024, 1024, 1024] 2913290     0.9999    0.9633         0.9633 0.0366              3     0.0039 40.8281 постоянная        1024
+
+17:28:57 mnist: лучшая архитектура постоянная [1024, 1024, 1024], test acc 0.9633
+17:29:00 cifar / узкие [64, 32, 16] [64, 32, 16]
+17:29:01   epoch  1/20  train acc 0.2774  test acc 0.3481
+17:29:01   epoch  2/20  train acc 0.3911  test acc 0.3822
+17:29:01   epoch  3/20  train acc 0.4354  test acc 0.4128
+17:29:02   epoch  4/20  train acc 0.4671  test acc 0.4212
+17:29:02   epoch  5/20  train acc 0.4927  test acc 0.4171
+17:29:02   epoch  6/20  train acc 0.5124  test acc 0.4256
+17:29:03   epoch  7/20  train acc 0.5365  test acc 0.4267
+17:29:03   epoch  8/20  train acc 0.5529  test acc 0.4320
+17:29:04   epoch  9/20  train acc 0.5728  test acc 0.4327
+17:29:04   epoch 10/20  train acc 0.5840  test acc 0.4401
+17:29:04   epoch 11/20  train acc 0.6107  test acc 0.4367
+17:29:05   epoch 12/20  train acc 0.6281  test acc 0.4381
+17:29:05   epoch 13/20  train acc 0.6395  test acc 0.4383
+17:29:05   epoch 14/20  train acc 0.6583  test acc 0.4396
+17:29:06   epoch 15/20  train acc 0.6736  test acc 0.4336
+17:29:06   epoch 16/20  train acc 0.6864  test acc 0.4281
+17:29:06   epoch 17/20  train acc 0.6998  test acc 0.4287
+17:29:06   epoch 18/20  train acc 0.7095  test acc 0.4173
+17:29:07   epoch 19/20  train acc 0.7260  test acc 0.4222
+17:29:07   epoch 20/20  train acc 0.7380  test acc 0.4267
+17:29:07 cifar / средние [256, 128, 64] [256, 128, 64]
+17:29:08   epoch  1/20  train acc 0.3334  test acc 0.3986
+17:29:08   epoch  2/20  train acc 0.4281  test acc 0.4184
+17:29:09   epoch  3/20  train acc 0.4761  test acc 0.4322
+17:29:10   epoch  4/20  train acc 0.5202  test acc 0.4474
+17:29:10   epoch  5/20  train acc 0.5593  test acc 0.4579
+17:29:11   epoch  6/20  train acc 0.5878  test acc 0.4378
+17:29:12   epoch  7/20  train acc 0.6279  test acc 0.4406
+17:29:12   epoch  8/20  train acc 0.6611  test acc 0.4451
+17:29:13   epoch  9/20  train acc 0.7000  test acc 0.4541
+17:29:13   epoch 10/20  train acc 0.7348  test acc 0.4555
+17:29:14   epoch 11/20  train acc 0.7679  test acc 0.4527
+17:29:14   epoch 12/20  train acc 0.7929  test acc 0.4595
+17:29:15   epoch 13/20  train acc 0.8243  test acc 0.4495
+17:29:16   epoch 14/20  train acc 0.8416  test acc 0.4397
+17:29:16   epoch 15/20  train acc 0.8731  test acc 0.4352
+17:29:17   epoch 16/20  train acc 0.8878  test acc 0.4286
+17:29:18   epoch 17/20  train acc 0.8872  test acc 0.4323
+17:29:18   epoch 18/20  train acc 0.9074  test acc 0.4442
+17:29:19   epoch 19/20  train acc 0.9133  test acc 0.4382
+17:29:19   epoch 20/20  train acc 0.9330  test acc 0.4376
+17:29:19 cifar / широкие [1024, 512, 256] [1024, 512, 256]
+17:29:21   epoch  1/20  train acc 0.3387  test acc 0.3860
+17:29:23   epoch  2/20  train acc 0.4297  test acc 0.4106
+17:29:25   epoch  3/20  train acc 0.4824  test acc 0.4270
+17:29:27   epoch  4/20  train acc 0.5134  test acc 0.4262
+17:29:29   epoch  5/20  train acc 0.5526  test acc 0.4313
+17:29:31   epoch  6/20  train acc 0.5996  test acc 0.4532
+17:29:34   epoch  7/20  train acc 0.6419  test acc 0.4451
+17:29:36   epoch  8/20  train acc 0.6790  test acc 0.4518
+17:29:38   epoch  9/20  train acc 0.7202  test acc 0.4401
+17:29:40   epoch 10/20  train acc 0.7487  test acc 0.4608
+17:29:42   epoch 11/20  train acc 0.7928  test acc 0.4409
+17:29:44   epoch 12/20  train acc 0.8054  test acc 0.4445
+17:29:47   epoch 13/20  train acc 0.8331  test acc 0.4500
+17:29:49   epoch 14/20  train acc 0.8548  test acc 0.4466
+17:29:51   epoch 15/20  train acc 0.8816  test acc 0.4515
+17:29:53   epoch 16/20  train acc 0.8848  test acc 0.4520
+17:29:55   epoch 17/20  train acc 0.9064  test acc 0.4516
+17:29:58   epoch 18/20  train acc 0.9141  test acc 0.4544
+17:30:00   epoch 19/20  train acc 0.9363  test acc 0.4550
+17:30:02   epoch 20/20  train acc 0.9266  test acc 0.4520
+17:30:02 cifar / очень широкие [2048, 1024, 512] [2048, 1024, 512]
+17:30:07   epoch  1/20  train acc 0.3307  test acc 0.3799
+17:30:11   epoch  2/20  train acc 0.4194  test acc 0.3907
+17:30:16   epoch  3/20  train acc 0.4679  test acc 0.4062
+17:30:21   epoch  4/20  train acc 0.5125  test acc 0.4359
+17:30:25   epoch  5/20  train acc 0.5477  test acc 0.4325
+17:30:30   epoch  6/20  train acc 0.5851  test acc 0.4412
+17:30:35   epoch  7/20  train acc 0.6214  test acc 0.4473
+17:30:39   epoch  8/20  train acc 0.6601  test acc 0.4344
+17:30:44   epoch  9/20  train acc 0.6904  test acc 0.4569
+17:30:50   epoch 10/20  train acc 0.7375  test acc 0.4476
+17:30:56   epoch 11/20  train acc 0.7663  test acc 0.4460
+17:31:02   epoch 12/20  train acc 0.7775  test acc 0.4507
+17:31:08   epoch 13/20  train acc 0.8126  test acc 0.4522
+17:31:13   epoch 14/20  train acc 0.8445  test acc 0.4561
+17:31:19   epoch 15/20  train acc 0.8513  test acc 0.4514
+17:31:24   epoch 16/20  train acc 0.8805  test acc 0.4503
+17:31:30   epoch 17/20  train acc 0.8655  test acc 0.4471
+17:31:36   epoch 18/20  train acc 0.8944  test acc 0.4502
+17:31:41   epoch 19/20  train acc 0.8936  test acc 0.4434
+17:31:47   epoch 20/20  train acc 0.8833  test acc 0.4439
+17:31:47 cifar_widths
+                          model  params  train_acc  test_acc  best_test_acc    gap  overfit_epoch  stability   time_s
+             узкие [64, 32, 16]  199450     0.7380    0.4267         0.4401 0.3113              6     0.0043   7.0221
+         средние [256, 128, 64]  828490     0.9330    0.4376         0.4595 0.4954              5     0.0053  12.1647
+       широкие [1024, 512, 256] 3805450     0.9266    0.4520         0.4608 0.4746              3     0.0014  42.6258
+очень широкие [2048, 1024, 512] 8921610     0.8833    0.4439         0.4569 0.4394              5     0.0030 104.5139
+
+17:31:50 cifar / расширение [16, 32, 64] [16, 32, 64]
+17:31:50   epoch  1/20  train acc 0.2817  test acc 0.3475
+17:31:50   epoch  2/20  train acc 0.3732  test acc 0.3767
+17:31:51   epoch  3/20  train acc 0.4045  test acc 0.3913
+17:31:51   epoch  4/20  train acc 0.4257  test acc 0.3909
+17:31:51   epoch  5/20  train acc 0.4423  test acc 0.4045
+17:31:52   epoch  6/20  train acc 0.4587  test acc 0.3995
+17:31:52   epoch  7/20  train acc 0.4693  test acc 0.4027
+17:31:52   epoch  8/20  train acc 0.4823  test acc 0.4107
+17:31:52   epoch  9/20  train acc 0.4939  test acc 0.4146
+17:31:53   epoch 10/20  train acc 0.5021  test acc 0.4061
+17:31:53   epoch 11/20  train acc 0.5063  test acc 0.4115
+17:31:53   epoch 12/20  train acc 0.5172  test acc 0.4103
+17:31:53   epoch 13/20  train acc 0.5264  test acc 0.4129
+17:31:54   epoch 14/20  train acc 0.5335  test acc 0.4084
+17:31:54   epoch 15/20  train acc 0.5433  test acc 0.4019
+17:31:54   epoch 16/20  train acc 0.5474  test acc 0.4034
+17:31:54   epoch 17/20  train acc 0.5499  test acc 0.4106
+17:31:55   epoch 18/20  train acc 0.5599  test acc 0.4075
+17:31:55   epoch 19/20  train acc 0.5667  test acc 0.4107
+17:31:55   epoch 20/20  train acc 0.5692  test acc 0.4112
+17:31:55 cifar / расширение [32, 64, 128] [32, 64, 128]
+17:31:56   epoch  1/20  train acc 0.3049  test acc 0.3702
+17:31:56   epoch  2/20  train acc 0.4012  test acc 0.4060
+17:31:56   epoch  3/20  train acc 0.4361  test acc 0.4153
+17:31:56   epoch  4/20  train acc 0.4606  test acc 0.4095
+17:31:57   epoch  5/20  train acc 0.4816  test acc 0.4263
+17:31:57   epoch  6/20  train acc 0.5046  test acc 0.4216
+17:31:57   epoch  7/20  train acc 0.5249  test acc 0.4316
+17:31:58   epoch  8/20  train acc 0.5502  test acc 0.4212
+17:31:58   epoch  9/20  train acc 0.5536  test acc 0.4200
+17:31:58   epoch 10/20  train acc 0.5684  test acc 0.4213
+17:31:59   epoch 11/20  train acc 0.5890  test acc 0.4228
+17:31:59   epoch 12/20  train acc 0.5999  test acc 0.4276
+17:31:59   epoch 13/20  train acc 0.6224  test acc 0.4205
+17:32:00   epoch 14/20  train acc 0.6304  test acc 0.4192
+17:32:00   epoch 15/20  train acc 0.6494  test acc 0.4204
+17:32:00   epoch 16/20  train acc 0.6650  test acc 0.4251
+17:32:00   epoch 17/20  train acc 0.6720  test acc 0.4194
+17:32:01   epoch 18/20  train acc 0.6825  test acc 0.4226
+17:32:01   epoch 19/20  train acc 0.6939  test acc 0.4196
+17:32:01   epoch 20/20  train acc 0.7028  test acc 0.4046
+17:32:01 cifar / расширение [64, 128, 256] [64, 128, 256]
+17:32:02   epoch  1/20  train acc 0.3267  test acc 0.3883
+17:32:02   epoch  2/20  train acc 0.4226  test acc 0.4158
+17:32:03   epoch  3/20  train acc 0.4638  test acc 0.4338
+17:32:03   epoch  4/20  train acc 0.5093  test acc 0.4203
+17:32:03   epoch  5/20  train acc 0.5305  test acc 0.4239
+17:32:04   epoch  6/20  train acc 0.5665  test acc 0.4448
+17:32:04   epoch  7/20  train acc 0.5976  test acc 0.4324
+17:32:05   epoch  8/20  train acc 0.6269  test acc 0.4267
+17:32:05   epoch  9/20  train acc 0.6556  test acc 0.4365
+17:32:05   epoch 10/20  train acc 0.6873  test acc 0.4357
+17:32:06   epoch 11/20  train acc 0.7078  test acc 0.4337
+17:32:06   epoch 12/20  train acc 0.7196  test acc 0.4325
+17:32:07   epoch 13/20  train acc 0.7549  test acc 0.4260
+17:32:07   epoch 14/20  train acc 0.7848  test acc 0.4314
+17:32:08   epoch 15/20  train acc 0.7915  test acc 0.4338
+17:32:08   epoch 16/20  train acc 0.8168  test acc 0.4218
+17:32:08   epoch 17/20  train acc 0.8210  test acc 0.4245
+17:32:09   epoch 18/20  train acc 0.8617  test acc 0.4361
+17:32:09   epoch 19/20  train acc 0.8886  test acc 0.4239
+17:32:10   epoch 20/20  train acc 0.9073  test acc 0.4254
+17:32:10 cifar / расширение [128, 256, 512] [128, 256, 512]
+17:32:10   epoch  1/20  train acc 0.3427  test acc 0.3990
+17:32:11   epoch  2/20  train acc 0.4306  test acc 0.4049
+17:32:11   epoch  3/20  train acc 0.4797  test acc 0.4344
+17:32:12   epoch  4/20  train acc 0.5305  test acc 0.4368
+17:32:12   epoch  5/20  train acc 0.5677  test acc 0.4453
+17:32:13   epoch  6/20  train acc 0.6134  test acc 0.4417
+17:32:13   epoch  7/20  train acc 0.6627  test acc 0.4375
+17:32:14   epoch  8/20  train acc 0.6884  test acc 0.4189
+17:32:14   epoch  9/20  train acc 0.7429  test acc 0.4338
+17:32:15   epoch 10/20  train acc 0.7749  test acc 0.4365
+17:32:15   epoch 11/20  train acc 0.8091  test acc 0.4381
+17:32:16   epoch 12/20  train acc 0.8289  test acc 0.4322
+17:32:16   epoch 13/20  train acc 0.8684  test acc 0.4388
+17:32:17   epoch 14/20  train acc 0.8931  test acc 0.4416
+17:32:17   epoch 15/20  train acc 0.8986  test acc 0.4307
+17:32:18   epoch 16/20  train acc 0.9061  test acc 0.4419
+17:32:19   epoch 17/20  train acc 0.9487  test acc 0.4287
+17:32:19   epoch 18/20  train acc 0.9440  test acc 0.4322
+17:32:20   epoch 19/20  train acc 0.9633  test acc 0.4411
+17:32:20   epoch 20/20  train acc 0.9777  test acc 0.4519
+17:32:20 cifar / расширение [256, 512, 1024] [256, 512, 1024]
+17:32:21   epoch  1/20  train acc 0.3324  test acc 0.4008
+17:32:22   epoch  2/20  train acc 0.4311  test acc 0.4118
+17:32:23   epoch  3/20  train acc 0.4834  test acc 0.4316
+17:32:24   epoch  4/20  train acc 0.5261  test acc 0.4400
+17:32:25   epoch  5/20  train acc 0.5819  test acc 0.4289
+17:32:26   epoch  6/20  train acc 0.6223  test acc 0.4498
+17:32:27   epoch  7/20  train acc 0.6647  test acc 0.4617
+17:32:28   epoch  8/20  train acc 0.7142  test acc 0.4448
+17:32:30   epoch  9/20  train acc 0.7508  test acc 0.4539
+17:32:31   epoch 10/20  train acc 0.8108  test acc 0.4535
+17:32:32   epoch 11/20  train acc 0.8374  test acc 0.4454
+17:32:33   epoch 12/20  train acc 0.8759  test acc 0.4417
+17:32:34   epoch 13/20  train acc 0.8621  test acc 0.4372
+17:32:35   epoch 14/20  train acc 0.9133  test acc 0.4617
+17:32:36   epoch 15/20  train acc 0.9164  test acc 0.4492
+17:32:37   epoch 16/20  train acc 0.9337  test acc 0.4445
+17:32:38   epoch 17/20  train acc 0.9488  test acc 0.4514
+17:32:39   epoch 18/20  train acc 0.9603  test acc 0.4534
+17:32:41   epoch 19/20  train acc 0.9283  test acc 0.4476
+17:32:42   epoch 20/20  train acc 0.9151  test acc 0.4461
+17:32:42 cifar / сужение [64, 32, 16] [64, 32, 16]
+17:32:42   epoch  1/20  train acc 0.2774  test acc 0.3481
+17:32:42   epoch  2/20  train acc 0.3911  test acc 0.3822
+17:32:42   epoch  3/20  train acc 0.4354  test acc 0.4128
+17:32:43   epoch  4/20  train acc 0.4671  test acc 0.4212
+17:32:43   epoch  5/20  train acc 0.4927  test acc 0.4171
+17:32:43   epoch  6/20  train acc 0.5124  test acc 0.4256
+17:32:44   epoch  7/20  train acc 0.5365  test acc 0.4267
+17:32:44   epoch  8/20  train acc 0.5529  test acc 0.4320
+17:32:44   epoch  9/20  train acc 0.5728  test acc 0.4327
+17:32:45   epoch 10/20  train acc 0.5840  test acc 0.4401
+17:32:45   epoch 11/20  train acc 0.6107  test acc 0.4367
+17:32:45   epoch 12/20  train acc 0.6281  test acc 0.4381
+17:32:46   epoch 13/20  train acc 0.6395  test acc 0.4383
+17:32:46   epoch 14/20  train acc 0.6583  test acc 0.4396
+17:32:46   epoch 15/20  train acc 0.6736  test acc 0.4336
+17:32:47   epoch 16/20  train acc 0.6864  test acc 0.4281
+17:32:47   epoch 17/20  train acc 0.6998  test acc 0.4287
+17:32:47   epoch 18/20  train acc 0.7095  test acc 0.4173
+17:32:48   epoch 19/20  train acc 0.7260  test acc 0.4222
+17:32:48   epoch 20/20  train acc 0.7380  test acc 0.4267
+17:32:48 cifar / сужение [128, 64, 32] [128, 64, 32]
+17:32:48   epoch  1/20  train acc 0.3141  test acc 0.3924
+17:32:49   epoch  2/20  train acc 0.4225  test acc 0.4136
+17:32:49   epoch  3/20  train acc 0.4682  test acc 0.4285
+17:32:50   epoch  4/20  train acc 0.4985  test acc 0.4400
+17:32:50   epoch  5/20  train acc 0.5340  test acc 0.4458
+17:32:51   epoch  6/20  train acc 0.5636  test acc 0.4487
+17:32:51   epoch  7/20  train acc 0.5887  test acc 0.4401
+17:32:51   epoch  8/20  train acc 0.6205  test acc 0.4369
+17:32:52   epoch  9/20  train acc 0.6450  test acc 0.4490
+17:32:52   epoch 10/20  train acc 0.6718  test acc 0.4421
+17:32:53   epoch 11/20  train acc 0.6976  test acc 0.4435
+17:32:53   epoch 12/20  train acc 0.7131  test acc 0.4411
+17:32:53   epoch 13/20  train acc 0.7414  test acc 0.4460
+17:32:54   epoch 14/20  train acc 0.7700  test acc 0.4342
+17:32:54   epoch 15/20  train acc 0.7892  test acc 0.4400
+17:32:55   epoch 16/20  train acc 0.8031  test acc 0.4422
+17:32:55   epoch 17/20  train acc 0.8098  test acc 0.4393
+17:32:55   epoch 18/20  train acc 0.8263  test acc 0.4389
+17:32:56   epoch 19/20  train acc 0.8492  test acc 0.4398
+17:32:56   epoch 20/20  train acc 0.8713  test acc 0.4416
+17:32:56 cifar / сужение [256, 128, 64] [256, 128, 64]
+17:32:57   epoch  1/20  train acc 0.3334  test acc 0.3986
+17:32:58   epoch  2/20  train acc 0.4281  test acc 0.4184
+17:32:58   epoch  3/20  train acc 0.4761  test acc 0.4322
+17:32:59   epoch  4/20  train acc 0.5202  test acc 0.4474
+17:32:59   epoch  5/20  train acc 0.5593  test acc 0.4579
+17:33:00   epoch  6/20  train acc 0.5878  test acc 0.4378
+17:33:01   epoch  7/20  train acc 0.6279  test acc 0.4406
+17:33:01   epoch  8/20  train acc 0.6611  test acc 0.4451
+17:33:02   epoch  9/20  train acc 0.7000  test acc 0.4541
+17:33:03   epoch 10/20  train acc 0.7348  test acc 0.4555
+17:33:03   epoch 11/20  train acc 0.7679  test acc 0.4527
+17:33:04   epoch 12/20  train acc 0.7929  test acc 0.4595
+17:33:05   epoch 13/20  train acc 0.8243  test acc 0.4495
+17:33:05   epoch 14/20  train acc 0.8416  test acc 0.4397
+17:33:06   epoch 15/20  train acc 0.8731  test acc 0.4352
+17:33:06   epoch 16/20  train acc 0.8878  test acc 0.4286
+17:33:07   epoch 17/20  train acc 0.8872  test acc 0.4323
+17:33:08   epoch 18/20  train acc 0.9074  test acc 0.4442
+17:33:08   epoch 19/20  train acc 0.9133  test acc 0.4382
+17:33:09   epoch 20/20  train acc 0.9330  test acc 0.4376
+17:33:09 cifar / сужение [512, 256, 128] [512, 256, 128]
+17:33:10   epoch  1/20  train acc 0.3370  test acc 0.4022
+17:33:11   epoch  2/20  train acc 0.4258  test acc 0.4117
+17:33:12   epoch  3/20  train acc 0.4830  test acc 0.4265
+17:33:13   epoch  4/20  train acc 0.5168  test acc 0.4367
+17:33:14   epoch  5/20  train acc 0.5565  test acc 0.4501
+17:33:15   epoch  6/20  train acc 0.6016  test acc 0.4504
+17:33:16   epoch  7/20  train acc 0.6413  test acc 0.4488
+17:33:17   epoch  8/20  train acc 0.6836  test acc 0.4524
+17:33:18   epoch  9/20  train acc 0.7175  test acc 0.4501
+17:33:19   epoch 10/20  train acc 0.7455  test acc 0.4473
+17:33:20   epoch 11/20  train acc 0.7853  test acc 0.4449
+17:33:21   epoch 12/20  train acc 0.8194  test acc 0.4463
+17:33:22   epoch 13/20  train acc 0.8525  test acc 0.4427
+17:33:23   epoch 14/20  train acc 0.8712  test acc 0.4435
+17:33:24   epoch 15/20  train acc 0.8883  test acc 0.4420
+17:33:25   epoch 16/20  train acc 0.8922  test acc 0.4487
+17:33:26   epoch 17/20  train acc 0.9099  test acc 0.4543
+17:33:27   epoch 18/20  train acc 0.9250  test acc 0.4486
+17:33:28   epoch 19/20  train acc 0.9144  test acc 0.4464
+17:33:29   epoch 20/20  train acc 0.9403  test acc 0.4435
+17:33:29 cifar / сужение [1024, 512, 256] [1024, 512, 256]
+17:33:31   epoch  1/20  train acc 0.3387  test acc 0.3860
+17:33:33   epoch  2/20  train acc 0.4297  test acc 0.4106
+17:33:35   epoch  3/20  train acc 0.4824  test acc 0.4270
+17:33:37   epoch  4/20  train acc 0.5134  test acc 0.4262
+17:33:39   epoch  5/20  train acc 0.5526  test acc 0.4313
+17:33:42   epoch  6/20  train acc 0.5996  test acc 0.4532
+17:33:44   epoch  7/20  train acc 0.6419  test acc 0.4451
+17:33:46   epoch  8/20  train acc 0.6790  test acc 0.4518
+17:33:48   epoch  9/20  train acc 0.7202  test acc 0.4401
+17:33:51   epoch 10/20  train acc 0.7487  test acc 0.4608
+17:33:53   epoch 11/20  train acc 0.7928  test acc 0.4409
+17:33:55   epoch 12/20  train acc 0.8054  test acc 0.4445
+17:33:57   epoch 13/20  train acc 0.8331  test acc 0.4500
+17:34:00   epoch 14/20  train acc 0.8548  test acc 0.4466
+17:34:02   epoch 15/20  train acc 0.8816  test acc 0.4515
+17:34:04   epoch 16/20  train acc 0.8848  test acc 0.4520
+17:34:06   epoch 17/20  train acc 0.9064  test acc 0.4516
+17:34:09   epoch 18/20  train acc 0.9141  test acc 0.4544
+17:34:11   epoch 19/20  train acc 0.9363  test acc 0.4550
+17:34:13   epoch 20/20  train acc 0.9266  test acc 0.4520
+17:34:13 cifar / постоянная [64, 64, 64] [64, 64, 64]
+17:34:13   epoch  1/20  train acc 0.3209  test acc 0.3735
+17:34:14   epoch  2/20  train acc 0.4058  test acc 0.4142
+17:34:14   epoch  3/20  train acc 0.4419  test acc 0.4130
+17:34:14   epoch  4/20  train acc 0.4869  test acc 0.4360
+17:34:15   epoch  5/20  train acc 0.5155  test acc 0.4330
+17:34:15   epoch  6/20  train acc 0.5394  test acc 0.4466
+17:34:15   epoch  7/20  train acc 0.5614  test acc 0.4383
+17:34:16   epoch  8/20  train acc 0.5901  test acc 0.4297
+17:34:16   epoch  9/20  train acc 0.6140  test acc 0.4422
+17:34:16   epoch 10/20  train acc 0.6269  test acc 0.4293
+17:34:17   epoch 11/20  train acc 0.6475  test acc 0.4331
+17:34:17   epoch 12/20  train acc 0.6585  test acc 0.4383
+17:34:18   epoch 13/20  train acc 0.6805  test acc 0.4391
+17:34:18   epoch 14/20  train acc 0.6957  test acc 0.4349
+17:34:18   epoch 15/20  train acc 0.7214  test acc 0.4373
+17:34:19   epoch 16/20  train acc 0.7364  test acc 0.4304
+17:34:19   epoch 17/20  train acc 0.7463  test acc 0.4310
+17:34:20   epoch 18/20  train acc 0.7739  test acc 0.4240
+17:34:20   epoch 19/20  train acc 0.7735  test acc 0.4258
+17:34:20   epoch 20/20  train acc 0.8021  test acc 0.4183
+17:34:20 cifar / постоянная [128, 128, 128] [128, 128, 128]
+17:34:21   epoch  1/20  train acc 0.3281  test acc 0.3775
+17:34:21   epoch  2/20  train acc 0.4218  test acc 0.4082
+17:34:22   epoch  3/20  train acc 0.4747  test acc 0.4142
+17:34:22   epoch  4/20  train acc 0.5067  test acc 0.4380
+17:34:22   epoch  5/20  train acc 0.5441  test acc 0.4361
+17:34:23   epoch  6/20  train acc 0.5781  test acc 0.4483
+17:34:23   epoch  7/20  train acc 0.6151  test acc 0.4435
+17:34:24   epoch  8/20  train acc 0.6390  test acc 0.4345
+17:34:24   epoch  9/20  train acc 0.6748  test acc 0.4381
+17:34:25   epoch 10/20  train acc 0.6972  test acc 0.4338
+17:34:25   epoch 11/20  train acc 0.7314  test acc 0.4390
+17:34:26   epoch 12/20  train acc 0.7666  test acc 0.4404
+17:34:26   epoch 13/20  train acc 0.7952  test acc 0.4368
+17:34:27   epoch 14/20  train acc 0.8192  test acc 0.4336
+17:34:27   epoch 15/20  train acc 0.8410  test acc 0.4344
+17:34:27   epoch 16/20  train acc 0.8352  test acc 0.4277
+17:34:28   epoch 17/20  train acc 0.8682  test acc 0.4381
+17:34:28   epoch 18/20  train acc 0.8960  test acc 0.4361
+17:34:29   epoch 19/20  train acc 0.9163  test acc 0.4336
+17:34:29   epoch 20/20  train acc 0.9227  test acc 0.4266
+17:34:29 cifar / постоянная [256, 256, 256] [256, 256, 256]
+17:34:30   epoch  1/20  train acc 0.3336  test acc 0.3766
+17:34:31   epoch  2/20  train acc 0.4307  test acc 0.4190
+17:34:31   epoch  3/20  train acc 0.4954  test acc 0.4411
+17:34:32   epoch  4/20  train acc 0.5295  test acc 0.4459
+17:34:32   epoch  5/20  train acc 0.5678  test acc 0.4325
+17:34:33   epoch  6/20  train acc 0.6143  test acc 0.4396
+17:34:34   epoch  7/20  train acc 0.6563  test acc 0.4420
+17:34:34   epoch  8/20  train acc 0.6912  test acc 0.4512
+17:34:35   epoch  9/20  train acc 0.7318  test acc 0.4488
+17:34:36   epoch 10/20  train acc 0.7723  test acc 0.4451
+17:34:36   epoch 11/20  train acc 0.8112  test acc 0.4362
+17:34:37   epoch 12/20  train acc 0.8334  test acc 0.4511
+17:34:37   epoch 13/20  train acc 0.8568  test acc 0.4404
+17:34:38   epoch 14/20  train acc 0.8617  test acc 0.4431
+17:34:39   epoch 15/20  train acc 0.8938  test acc 0.4461
+17:34:39   epoch 16/20  train acc 0.9130  test acc 0.4386
+17:34:40   epoch 17/20  train acc 0.9014  test acc 0.4534
+17:34:41   epoch 18/20  train acc 0.9295  test acc 0.4413
+17:34:41   epoch 19/20  train acc 0.9346  test acc 0.4491
+17:34:42   epoch 20/20  train acc 0.9397  test acc 0.4526
+17:34:42 cifar / постоянная [512, 512, 512] [512, 512, 512]
+17:34:43   epoch  1/20  train acc 0.3344  test acc 0.4032
+17:34:45   epoch  2/20  train acc 0.4213  test acc 0.4317
+17:34:46   epoch  3/20  train acc 0.4789  test acc 0.4437
+17:34:47   epoch  4/20  train acc 0.5327  test acc 0.4477
+17:34:48   epoch  5/20  train acc 0.5754  test acc 0.4442
+17:34:50   epoch  6/20  train acc 0.6188  test acc 0.4504
+17:34:51   epoch  7/20  train acc 0.6638  test acc 0.4413
+17:34:52   epoch  8/20  train acc 0.7014  test acc 0.4509
+17:34:53   epoch  9/20  train acc 0.7509  test acc 0.4374
+17:34:54   epoch 10/20  train acc 0.7724  test acc 0.4479
+17:34:56   epoch 11/20  train acc 0.8157  test acc 0.4530
+17:34:57   epoch 12/20  train acc 0.8387  test acc 0.4389
+17:34:58   epoch 13/20  train acc 0.8590  test acc 0.4531
+17:34:59   epoch 14/20  train acc 0.9029  test acc 0.4459
+17:35:01   epoch 15/20  train acc 0.8866  test acc 0.4471
+17:35:02   epoch 16/20  train acc 0.9006  test acc 0.4439
+17:35:03   epoch 17/20  train acc 0.9220  test acc 0.4365
+17:35:05   epoch 18/20  train acc 0.9366  test acc 0.4536
+17:35:06   epoch 19/20  train acc 0.9317  test acc 0.4457
+17:35:07   epoch 20/20  train acc 0.9422  test acc 0.4446
+17:35:07 cifar / постоянная [1024, 1024, 1024] [1024, 1024, 1024]
+17:35:10   epoch  1/20  train acc 0.3258  test acc 0.3549
+17:35:13   epoch  2/20  train acc 0.4120  test acc 0.4130
+17:35:16   epoch  3/20  train acc 0.4686  test acc 0.4187
+17:35:19   epoch  4/20  train acc 0.5193  test acc 0.4278
+17:35:22   epoch  5/20  train acc 0.5507  test acc 0.4469
+17:35:24   epoch  6/20  train acc 0.5866  test acc 0.4275
+17:35:27   epoch  7/20  train acc 0.6296  test acc 0.4288
+17:35:30   epoch  8/20  train acc 0.6727  test acc 0.4538
+17:35:33   epoch  9/20  train acc 0.7126  test acc 0.4437
+17:35:37   epoch 10/20  train acc 0.7562  test acc 0.4444
+17:35:41   epoch 11/20  train acc 0.7747  test acc 0.4286
+17:35:45   epoch 12/20  train acc 0.7726  test acc 0.4451
+17:35:48   epoch 13/20  train acc 0.8349  test acc 0.4470
+17:35:52   epoch 14/20  train acc 0.8569  test acc 0.4396
+17:35:56   epoch 15/20  train acc 0.8914  test acc 0.4468
+17:35:59   epoch 16/20  train acc 0.8736  test acc 0.4341
+17:36:02   epoch 17/20  train acc 0.8812  test acc 0.4344
+17:36:06   epoch 18/20  train acc 0.8907  test acc 0.4481
+17:36:10   epoch 19/20  train acc 0.9288  test acc 0.4537
+17:36:13   epoch 20/20  train acc 0.9132  test acc 0.4367
+17:36:13 cifar_grid_search
+                        model  params  train_acc  test_acc  best_test_acc    gap  overfit_epoch  stability  time_s     scheme  base_width
+      расширение [16, 32, 64]   52474     0.5692    0.4112         0.4146 0.1580              9     0.0029  5.7586 расширение          64
+     расширение [32, 64, 128]  110058     0.7028    0.4046         0.4316 0.2982              5     0.0071  6.0424 расширение         128
+    расширение [64, 128, 256]  240586     0.9073    0.4254         0.4448 0.4819              3     0.0050  8.1708 расширение         256
+   расширение [128, 256, 512]  563082     0.9777    0.4519         0.4519 0.5258              4     0.0081 10.8719 расширение         512
+  расширение [256, 512, 1024] 1453834     0.9151    0.4461         0.4617 0.4690              3     0.0033 21.1846 расширение        1024
+         сужение [64, 32, 16]  199450     0.7380    0.4267         0.4401 0.3113              6     0.0043  6.4122    сужение          64
+        сужение [128, 64, 32]  404010     0.8713    0.4416         0.4490 0.4297              4     0.0013  8.3740    сужение         128
+       сужение [256, 128, 64]  828490     0.9330    0.4376         0.4595 0.4954              5     0.0053 12.4587    сужение         256
+      сужение [512, 256, 128] 1738890     0.9403    0.4435         0.4543 0.4968              4     0.0035 19.9132    сужение         512
+     сужение [1024, 512, 256] 3805450     0.9266    0.4520         0.4608 0.4746              3     0.0014 44.2452    сужение        1024
+      постоянная [64, 64, 64]  205642     0.8021    0.4183         0.4466 0.3838              6     0.0046  7.2264 постоянная          64
+   постоянная [128, 128, 128]  427658     0.9227    0.4266         0.4483 0.4961              4     0.0045  8.8873 постоянная         128
+   постоянная [256, 256, 256]  920842     0.9397    0.4526         0.4534 0.4871              4     0.0060 12.9865 постоянная         256
+   постоянная [512, 512, 512] 2103818     0.9422    0.4446         0.4536 0.4976              3     0.0054 25.2275 постоянная         512
+постоянная [1024, 1024, 1024] 5256202     0.9132    0.4367         0.4538 0.4765              3     0.0080 65.8179 постоянная        1024
+
+17:36:13 cifar: лучшая архитектура постоянная [256, 256, 256], test acc 0.4526
